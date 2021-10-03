@@ -20,6 +20,7 @@
 	"homepage": "https://bitbucket.org/nbl7/urn-adm-dep#readme",
 	"devDependencies": {},
 	"dependencies": {
+		"nuxt": "^2.15.8",
 		"urn-trx-dep": "git+ssh://git@bitbucket.org/nbl7/urn-trx-dep.git"
 	}
 }
