@@ -21,6 +21,7 @@
 	"devDependencies": {},
 	"dependencies": {
 		"nuxt": "^2.15.8",
-		"urn-trx-dep": "git+ssh://git@bitbucket.org/nbl7/urn-trx-dep.git"
+		"urn-trx-dep": "git+ssh://git@bitbucket.org/nbl7/urn-trx-dep.git",
+		"vuedraggable": "^2.24.3"
 	}
 }
