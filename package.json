@@ -28,6 +28,7 @@
 		"@uppy/webcam": "^2.0.5",
 		"@uppy/xhr-upload": "^2.0.7",
 		"nuxt": "^2.15.8",
+		"@nuxtjs/proxy": "^2.1.0",
 		"urn-trx-dep": "git+ssh://git@github.com/nbl7/uranio-trx-dep.git",
 		"vuedraggable": "^2.24.3"
 	}
